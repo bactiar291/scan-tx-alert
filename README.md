@@ -1,2 +1,2 @@
 # scan-tx-alert
-untuk mengscan sebuah addres apakah dalam bahaya atau aman 
+untuk melihat approval dan signed sebuah addres apakah dalam bahaya atau aman 
